@@ -1,0 +1,834 @@
+{
+  "configuracion": {
+    "intervaloFotoMs": 7000,
+    "transicionMs": 1500,
+    "repetir": true
+  },
+  "propiedades": [
+    {
+      "id": "prop-1",
+      "activa": true,
+      "orden": 1,
+      "operacion": "EN ALQUILER",
+      "titulo": "Cabaña Con Gran Parque Y Pileta",
+      "ubicacion": "Castañeda 235, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "600 m² terreno",
+      "ambientes": "4 Amb.",
+      "dormitorios": "3 Dorm.",
+      "caracteristicas": [
+        "Pileta y Parrilla"
+      ],
+      "imagenes": [
+        "assets/alquiler/casas-quintas/castaneda-235/Castanieda_Portada.webp",
+        "assets/alquiler/casas-quintas/castaneda-235/Castanieda_33(1).webp",
+        "assets/alquiler/casas-quintas/castaneda-235/Castanieda_3(1).webp",
+        "assets/alquiler/casas-quintas/castaneda-235/Castanieda_6(1).webp",
+        "assets/alquiler/casas-quintas/castaneda-235/Castanieda_7(1).webp"
+      ]
+    },
+    {
+      "id": "prop-2",
+      "activa": true,
+      "orden": 2,
+      "operacion": "EN ALQUILER",
+      "titulo": "Casa Quinta Ejército De Los Andes",
+      "ubicacion": "Ejército de los Andes, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/alquiler/casas-quintas/Ejercito-de-los-andes/Ejercito de los Andes_1.webp",
+        "assets/alquiler/casas-quintas/Ejercito-de-los-andes/Ejercito de los Andes_2.webp",
+        "assets/alquiler/casas-quintas/Ejercito-de-los-andes/Ejercito de los Andes_3.webp",
+        "assets/alquiler/casas-quintas/Ejercito-de-los-andes/Ejercito de los Andes_4.webp",
+        "assets/alquiler/casas-quintas/Ejercito-de-los-andes/Ejercito de los Andes_5.webp"
+      ]
+    },
+    {
+      "id": "prop-3",
+      "activa": true,
+      "orden": 3,
+      "operacion": "EN ALQUILER",
+      "titulo": "Departamento 2 Ambientes",
+      "ubicacion": "Río de Janeiro 3450, Pontevedra",
+      "precio": "$ 450.000 / mes",
+      "superficie": "45 m²",
+      "ambientes": "2 Amb.",
+      "dormitorios": "1 Dorm.",
+      "caracteristicas": [
+        "Cocina-Comedor Integrada"
+      ],
+      "imagenes": [
+        "assets/alquiler/departamentos/Departamento rio de janeiro/PORTADA.jpeg",
+        "assets/alquiler/departamentos/Departamento rio de janeiro/wm_1.webp",
+        "assets/alquiler/departamentos/Departamento rio de janeiro/wm_2.webp",
+        "assets/alquiler/departamentos/Departamento rio de janeiro/wm_3.webp",
+        "assets/alquiler/departamentos/Departamento rio de janeiro/wm_4.webp"
+      ]
+    },
+    {
+      "id": "prop-4",
+      "activa": true,
+      "orden": 4,
+      "operacion": "EN ALQUILER",
+      "titulo": "Departamento De Categoría Canning",
+      "ubicacion": "Canning, Buenos Aires",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/alquiler/departamentos/DEPTO-CANNING/1.webp",
+        "assets/alquiler/departamentos/DEPTO-CANNING/2.webp",
+        "assets/alquiler/departamentos/DEPTO-CANNING/3.webp",
+        "assets/alquiler/departamentos/DEPTO-CANNING/4.webp",
+        "assets/alquiler/departamentos/DEPTO-CANNING/5.webp"
+      ]
+    },
+    {
+      "id": "prop-5",
+      "activa": true,
+      "orden": 5,
+      "operacion": "EN ALQUILER",
+      "titulo": "Galpón Y Predio Comercial",
+      "ubicacion": "Balladares 4388 esq. Valparaíso, Pontevedra",
+      "precio": "Consultar",
+      "superficie": "242 m² cub. / 507 m² semicub.",
+      "ambientes": "Depósito + Oficinas",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Trifásica y Portón de Acceso"
+      ],
+      "imagenes": [
+        "assets/alquiler/locales/Galpon-Pontevedra/limpia_09_WhatsApp_Image_2026-10-16_at_11_18_56__1_.jpg",
+        "assets/alquiler/locales/Galpon-Pontevedra/limpia_12_WhatsApp_Image_2026-10-16_at_11_18_57__1_.jpg",
+        "assets/alquiler/locales/Galpon-Pontevedra/limpia_05_WhatsApp_Image_2026-10-16_at_11_18_55__1_.jpg",
+        "assets/alquiler/locales/Galpon-Pontevedra/limpia_01_WhatsApp_Image_2026-05-11_at_16_51_34__1_.jpg",
+        "assets/alquiler/locales/Galpon-Pontevedra/limpia_10_WhatsApp_Image_2026-10-16_at_11_18_56__2_.jpg"
+      ]
+    },
+    {
+      "id": "prop-6",
+      "activa": true,
+      "orden": 6,
+      "operacion": "EN VENTA",
+      "titulo": "Casa En Carlos Tejedor",
+      "ubicacion": "Caseros, Tres de Febrero",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Excelente Acceso"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/carlos-tejedor-caseros/1.webp",
+        "assets/venta/casas-quinta/carlos-tejedor-caseros/2.webp",
+        "assets/venta/casas-quinta/carlos-tejedor-caseros/3.webp",
+        "assets/venta/casas-quinta/carlos-tejedor-caseros/4.webp",
+        "assets/venta/casas-quinta/carlos-tejedor-caseros/5.webp"
+      ]
+    },
+    {
+      "id": "prop-7",
+      "activa": true,
+      "orden": 7,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta California 5900",
+      "ubicacion": "California 5900, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/casa-quinta-california-5900/1.webp",
+        "assets/venta/casas-quinta/casa-quinta-california-5900/2.webp",
+        "assets/venta/casas-quinta/casa-quinta-california-5900/3.webp",
+        "assets/venta/casas-quinta/casa-quinta-california-5900/4.webp",
+        "assets/venta/casas-quinta/casa-quinta-california-5900/5.webp"
+      ]
+    },
+    {
+      "id": "prop-8",
+      "activa": true,
+      "orden": 8,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Castex Y Del Carril",
+      "ubicacion": "Castex y Del Carril, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/castex y del carril/Castex y del Carril_Portada-1.webp",
+        "assets/venta/casas-quinta/castex y del carril/Castex y del Carril_28(1).webp",
+        "assets/venta/casas-quinta/castex y del carril/Castex y del Carril_4(1).webp",
+        "assets/venta/casas-quinta/castex y del carril/Castex y del Carril_2.webp",
+        "assets/venta/casas-quinta/castex y del carril/Castex y del Carril_3.webp"
+      ]
+    },
+    {
+      "id": "prop-9",
+      "activa": true,
+      "orden": 9,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Castro Al 600",
+      "ubicacion": "Castro al 600, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "1.512 m² lote / 89 m² cub.",
+      "ambientes": "3 Amb.",
+      "dormitorios": "2 Dorm.",
+      "caracteristicas": [
+        "Arboleda Añosa"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Castro-646/PORTADA.webp",
+        "assets/venta/casas-quinta/Castro-646/1_diseno_sin_titulo.webp",
+        "assets/venta/casas-quinta/Castro-646/2_diseno_sin_titulo.webp",
+        "assets/venta/casas-quinta/Castro-646/3_diseno_sin_titulo.webp",
+        "assets/venta/casas-quinta/Castro-646/4_diseno_sin_titulo.webp"
+      ]
+    },
+    {
+      "id": "prop-10",
+      "activa": true,
+      "orden": 10,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Ceretti 1300",
+      "ubicacion": "Ceretti 1300, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Parque y Piscina"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Ceretti_1300/Ceretti 1300 retocadas y marca de agua_1.webp",
+        "assets/venta/casas-quinta/Ceretti_1300/Ceretti 1300 retocadas y marca de agua_2.webp",
+        "assets/venta/casas-quinta/Ceretti_1300/Ceretti 1300 retocadas y marca de agua_3.webp",
+        "assets/venta/casas-quinta/Ceretti_1300/Ceretti 1300 retocadas y marca de agua_4.webp",
+        "assets/venta/casas-quinta/Ceretti_1300/Ceretti 1300 retocadas y marca de agua_5.webp"
+      ]
+    },
+    {
+      "id": "prop-11",
+      "activa": true,
+      "orden": 11,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Con Pileta Y Quincho",
+      "ubicacion": "Cevallos, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Pileta y Quincho"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/casa-quinta-con-pileta-y-quincho-cevallos/1.webp",
+        "assets/venta/casas-quinta/casa-quinta-con-pileta-y-quincho-cevallos/2.webp",
+        "assets/venta/casas-quinta/casa-quinta-con-pileta-y-quincho-cevallos/3.webp",
+        "assets/venta/casas-quinta/casa-quinta-con-pileta-y-quincho-cevallos/4.webp",
+        "assets/venta/casas-quinta/casa-quinta-con-pileta-y-quincho-cevallos/5.webp"
+      ]
+    },
+    {
+      "id": "prop-12",
+      "activa": true,
+      "orden": 12,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Con Piscina",
+      "ubicacion": "20 de Junio, La Matanza",
+      "precio": "Consultar",
+      "superficie": "1.500 m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Piscina Climatizada"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/CasaQuinta_Venta_20DeJunio_Piscina_1500m2/1.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_20DeJunio_Piscina_1500m2/2.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_20DeJunio_Piscina_1500m2/3.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_20DeJunio_Piscina_1500m2/4.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_20DeJunio_Piscina_1500m2/5.webp"
+      ]
+    },
+    {
+      "id": "prop-13",
+      "activa": true,
+      "orden": 13,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Cosme",
+      "ubicacion": "Cosme, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Cosme--casa-quinta-en-alquiler/cosme---casa_Portada.webp",
+        "assets/venta/casas-quinta/Cosme--casa-quinta-en-alquiler/cosme---casa_2.webp",
+        "assets/venta/casas-quinta/Cosme--casa-quinta-en-alquiler/cosme---casa_3.webp",
+        "assets/venta/casas-quinta/Cosme--casa-quinta-en-alquiler/cosme---casa_4.webp",
+        "assets/venta/casas-quinta/Cosme--casa-quinta-en-alquiler/cosme---casa_5.webp"
+      ]
+    },
+    {
+      "id": "prop-14",
+      "activa": true,
+      "orden": 14,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Cosquín 1120",
+      "ubicacion": "Cosquín 1120, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "1.347 m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Apto Crédito"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/CasaQuinta_Venta_Cosquin1120_1347m2_AptoCredito/1.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_Cosquin1120_1347m2_AptoCredito/2.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_Cosquin1120_1347m2_AptoCredito/3.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_Cosquin1120_1347m2_AptoCredito/4.webp",
+        "assets/venta/casas-quinta/CasaQuinta_Venta_Cosquin1120_1347m2_AptoCredito/5.webp"
+      ]
+    },
+    {
+      "id": "prop-15",
+      "activa": true,
+      "orden": 15,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Cosquín 1400",
+      "ubicacion": "Cosquín 1400, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Amplio Parque"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/COSQUIN 1400-Casa Quinta En Ven/COSQUIN 1400-Casa Quinta En Venta- 1.webp",
+        "assets/venta/casas-quinta/COSQUIN 1400-Casa Quinta En Ven/COSQUIN 1400-Casa Quinta En Vent-2.webp",
+        "assets/venta/casas-quinta/COSQUIN 1400-Casa Quinta En Ven/COSQUIN 1400-Casa Quinta En Vent-3.webp",
+        "assets/venta/casas-quinta/COSQUIN 1400-Casa Quinta En Ven/COSQUIN 1400-Casa Quinta En Vent-4.webp",
+        "assets/venta/casas-quinta/COSQUIN 1400-Casa Quinta En Ven/COSQUIN 1400-Casa Quinta En Vent-5.webp"
+      ]
+    },
+    {
+      "id": "prop-16",
+      "activa": true,
+      "orden": 16,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Gibraltar I",
+      "ubicacion": "Gibraltar, Pontevedra",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Gibraltar-1-pontevedra/1.webp",
+        "assets/venta/casas-quinta/Gibraltar-1-pontevedra/2.webp",
+        "assets/venta/casas-quinta/Gibraltar-1-pontevedra/3.webp",
+        "assets/venta/casas-quinta/Gibraltar-1-pontevedra/4.webp",
+        "assets/venta/casas-quinta/Gibraltar-1-pontevedra/5.webp"
+      ]
+    },
+    {
+      "id": "prop-17",
+      "activa": true,
+      "orden": 17,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Gibraltar Ii",
+      "ubicacion": "Gibraltar, Pontevedra",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Gibraltar-2-pontevedra/wm_Gibraltar 201_1_PORTADA.webp",
+        "assets/venta/casas-quinta/Gibraltar-2-pontevedra/wm_Gibraltar 202_1.webp",
+        "assets/venta/casas-quinta/Gibraltar-2-pontevedra/wm_Gibraltar 203_2.webp",
+        "assets/venta/casas-quinta/Gibraltar-2-pontevedra/4.png",
+        "assets/venta/casas-quinta/Gibraltar-2-pontevedra/wm_Gibraltar 204_5.webp"
+      ]
+    },
+    {
+      "id": "prop-18",
+      "activa": true,
+      "orden": 18,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Girardot 1345",
+      "ubicacion": "Girardot 1345, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/girardot-1345/PORTADA (2).webp",
+        "assets/venta/casas-quinta/girardot-1345/1 (2).webp",
+        "assets/venta/casas-quinta/girardot-1345/2 (3).webp",
+        "assets/venta/casas-quinta/girardot-1345/3.webp",
+        "assets/venta/casas-quinta/girardot-1345/4.webp"
+      ]
+    },
+    {
+      "id": "prop-19",
+      "activa": true,
+      "orden": 19,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Juan Pío Gana 4400",
+      "ubicacion": "Juan Pío Gana 4400, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Juan Pio Gana 4400/Juan pio gana_WhatsApp Image 2026-02-18 at 10.17.43 (1).jpeg",
+        "assets/venta/casas-quinta/Juan Pio Gana 4400/Juan pio gana_WhatsApp Image 2026-02-18 at 10.17.37 (1).jpeg",
+        "assets/venta/casas-quinta/Juan Pio Gana 4400/Juan pio gana_WhatsApp Image 2026-02-18 at 10.17.41 (1).jpeg",
+        "assets/venta/casas-quinta/Juan Pio Gana 4400/Juan pio gana_WhatsApp Image 2026-02-18 at 10.17.36.jpeg",
+        "assets/venta/casas-quinta/Juan Pio Gana 4400/Juan pio gana_WhatsApp Image 2026-02-18 at 10.17.37.jpeg"
+      ]
+    },
+    {
+      "id": "prop-20",
+      "activa": true,
+      "orden": 20,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Leopardi 5800",
+      "ubicacion": "Leopardi al 5800, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Zona Residencial"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Leopardi al 5800/Leopardi al 5800_1.webp",
+        "assets/venta/casas-quinta/Leopardi al 5800/Leopardi al 5800_2.webp",
+        "assets/venta/casas-quinta/Leopardi al 5800/Leopardi al 5800_3.webp",
+        "assets/venta/casas-quinta/Leopardi al 5800/Leopardi al 5800_4.webp",
+        "assets/venta/casas-quinta/Leopardi al 5800/Leopardi al 5800_5.webp"
+      ]
+    },
+    {
+      "id": "prop-21",
+      "activa": true,
+      "orden": 21,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Manuel Castro 775",
+      "ubicacion": "Manuel Castro 775, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Manuel Castro - 775/wm_limpia_13_WhatsApp_Image_2026-10-26_at_18_09_08__1_.jpg",
+        "assets/venta/casas-quinta/Manuel Castro - 775/wm_limpia_02_WhatsApp_Image_2026-10-26_at_18_08_08__1_.jpg",
+        "assets/venta/casas-quinta/Manuel Castro - 775/wm_limpia_16_WhatsApp_Image_2026-10-26_at_18_09_09__1_.jpg",
+        "assets/venta/casas-quinta/Manuel Castro - 775/wm_limpia_02_WhatsApp_Image_2026-10-26_at_18_09_12__1_.jpg",
+        "assets/venta/casas-quinta/Manuel Castro - 775/wm_limpia_07_WhatsApp_Image_2026-10-26_at_18_09_05__1_.jpg"
+      ]
+    },
+    {
+      "id": "prop-22",
+      "activa": true,
+      "orden": 22,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Urien",
+      "ubicacion": "Urien, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/Urien-casa-quinta-20-de-junio/Portada.webp",
+        "assets/venta/casas-quinta/Urien-casa-quinta-20-de-junio/1.webp",
+        "assets/venta/casas-quinta/Urien-casa-quinta-20-de-junio/2.webp",
+        "assets/venta/casas-quinta/Urien-casa-quinta-20-de-junio/3.webp",
+        "assets/venta/casas-quinta/Urien-casa-quinta-20-de-junio/4.webp"
+      ]
+    },
+    {
+      "id": "prop-23",
+      "activa": true,
+      "orden": 23,
+      "operacion": "EN VENTA",
+      "titulo": "Complejo Río De Janeiro",
+      "ubicacion": "Río de Janeiro, Pontevedra",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/rio de janeiro Venta todo/wm_PORTADA.jpg",
+        "assets/venta/casas-quinta/rio de janeiro Venta todo/wm_2.jpg",
+        "assets/venta/casas-quinta/rio de janeiro Venta todo/wm_3.jpg",
+        "assets/venta/casas-quinta/rio de janeiro Venta todo/wm_4.jpg",
+        "assets/venta/casas-quinta/rio de janeiro Venta todo/wm_5.jpg"
+      ]
+    },
+    {
+      "id": "prop-24",
+      "activa": true,
+      "orden": 24,
+      "operacion": "EN VENTA",
+      "titulo": "Depto. Independiente La Rosalía",
+      "ubicacion": "20 de Junio, La Matanza",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/departamento-independiente-la-rosalia/wm_PORTADAA.webp",
+        "assets/venta/casas-quinta/departamento-independiente-la-rosalia/wm_WhatsApp Image 2026-09-23 at 16.23.00.webp",
+        "assets/venta/casas-quinta/departamento-independiente-la-rosalia/Toque de Nitidez Temperatura (1).webp",
+        "assets/venta/casas-quinta/departamento-independiente-la-rosalia/wm_WhatsApp Image 2026-09-23 at 16.22.49 (1).webp",
+        "assets/venta/casas-quinta/departamento-independiente-la-rosalia/Toque de Nitidez y Temperatura (1).webp"
+      ]
+    },
+    {
+      "id": "prop-25",
+      "activa": true,
+      "orden": 25,
+      "operacion": "EN VENTA",
+      "titulo": "Propiedad De 6 Ambientes",
+      "ubicacion": "Caseros, Tres de Febrero",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "6 Amb.",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/propiedad-de-6-ambientes-caseros/1.webp",
+        "assets/venta/casas-quinta/propiedad-de-6-ambientes-caseros/15 (1).webp",
+        "assets/venta/casas-quinta/propiedad-de-6-ambientes-caseros/2.webp",
+        "assets/venta/casas-quinta/propiedad-de-6-ambientes-caseros/3.webp",
+        "assets/venta/casas-quinta/propiedad-de-6-ambientes-caseros/4.webp"
+      ]
+    },
+    {
+      "id": "prop-26",
+      "activa": true,
+      "orden": 26,
+      "operacion": "EN VENTA",
+      "titulo": "Quinta El Maestro",
+      "ubicacion": "20 de Junio, La Matanza",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Arboleda Añosa"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/QUINTA EL MAESTRO/QUINTA EL MAESTRO_PORTADA.webp",
+        "assets/venta/casas-quinta/QUINTA EL MAESTRO/QUINTA EL MAESTRO_3.webp",
+        "assets/venta/casas-quinta/QUINTA EL MAESTRO/QUINTA EL MAESTRO_4.webp",
+        "assets/venta/casas-quinta/QUINTA EL MAESTRO/QUINTA EL MAESTRO_5.webp",
+        "assets/venta/casas-quinta/QUINTA EL MAESTRO/QUINTA EL MAESTRO_6.webp"
+      ]
+    },
+    {
+      "id": "prop-27",
+      "activa": true,
+      "orden": 27,
+      "operacion": "EN VENTA",
+      "titulo": "Residencia Carlos Cassafousth 541",
+      "ubicacion": "Carlos Cassafousth 541, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Gran Parque y Piscina"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/ Carlos Cassafouth 541/Cassafouth 541_WhatsApp Image 2026-10-05 at 5.34.29 PM (1).webp",
+        "assets/venta/casas-quinta/ Carlos Cassafouth 541/Cassafouth 541_WhatsApp Image 2026-10-05 at 5.34.30 PM (1).webp",
+        "assets/venta/casas-quinta/ Carlos Cassafouth 541/Cassafouth 541_WhatsApp Image 2026-10-05 at 5.34.25 PM (1).webp",
+        "assets/venta/casas-quinta/ Carlos Cassafouth 541/Cassafouth 541_WhatsApp Image 2026-10-05 at 5.34.26 PM (1).webp",
+        "assets/venta/casas-quinta/ Carlos Cassafouth 541/Cassafouth 541_WhatsApp Image 2026-10-05 at 5.34.33 PM (1).webp"
+      ]
+    },
+    {
+      "id": "prop-28",
+      "activa": true,
+      "orden": 28,
+      "operacion": "EN VENTA",
+      "titulo": "Residencia En Venta Aguapey",
+      "ubicacion": "Aguapey, Zona Oeste",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/aguapey-venta/1.webp",
+        "assets/venta/casas-quinta/aguapey-venta/2.webp",
+        "assets/venta/casas-quinta/aguapey-venta/3.webp",
+        "assets/venta/casas-quinta/aguapey-venta/4.webp",
+        "assets/venta/casas-quinta/aguapey-venta/5.webp"
+      ]
+    },
+    {
+      "id": "prop-29",
+      "activa": true,
+      "orden": 29,
+      "operacion": "EN VENTA",
+      "titulo": "Residencia La Rosalía",
+      "ubicacion": "Simona, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/casas-quinta/la-rosalia-simona/2 (1).webp",
+        "assets/venta/casas-quinta/la-rosalia-simona/9 (1).webp",
+        "assets/venta/casas-quinta/la-rosalia-simona/1.webp",
+        "assets/venta/casas-quinta/la-rosalia-simona/13 (1).webp",
+        "assets/venta/casas-quinta/la-rosalia-simona/2.webp"
+      ]
+    },
+    {
+      "id": "prop-30",
+      "activa": true,
+      "orden": 30,
+      "operacion": "EN VENTA",
+      "titulo": "Departamento Av. Rivadavia 14600",
+      "ubicacion": "Av. Rivadavia 14600, Ramos Mejía",
+      "precio": "Consultar",
+      "superficie": "Consulte m²",
+      "ambientes": "Ambientes amplios",
+      "dormitorios": "Consulte dorm.",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/venta/departamentos/Depto av rivadavia 14600/PORTADA.jpeg",
+        "assets/venta/departamentos/Depto av rivadavia 14600/WhatsApp Image 2026-09-08 at 3.12.42 PM (1).webp",
+        "assets/venta/departamentos/Depto av rivadavia 14600/WhatsApp Image 2026-09-08 at 3.12.42 PM (2).webp",
+        "assets/venta/departamentos/Depto av rivadavia 14600/WhatsApp Image 2026-09-08 at 3.12.42 PM (3).webp",
+        "assets/venta/departamentos/Depto av rivadavia 14600/WhatsApp Image 2026-09-08 at 3.12.42 PM (4).webp"
+      ]
+    },
+    {
+      "id": "prop-31",
+      "activa": true,
+      "orden": 31,
+      "operacion": "EN VENTA",
+      "titulo": "Lote De Terreno Cassafousth",
+      "ubicacion": "Carlos Cassafousth, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Lote Perimetrado"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Cassafousth-terreno/Cassafousth_PORTADA.webp",
+        "assets/venta/terrenos/Cassafousth-terreno/Cassafousth_2.webp",
+        "assets/venta/terrenos/Cassafousth-terreno/Cassafousth_3.webp",
+        "assets/venta/terrenos/Cassafousth-terreno/Cassafousth_5.webp",
+        "assets/venta/terrenos/Cassafousth-terreno/Cassafousth_6.webp"
+      ]
+    },
+    {
+      "id": "prop-32",
+      "activa": true,
+      "orden": 32,
+      "operacion": "EN VENTA",
+      "titulo": "Terreno Alejo Castex",
+      "ubicacion": "Alejo Castex, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Excelente entorno"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Alejo-Castex/Terreno-alejo-castex-portada.webp",
+        "assets/venta/terrenos/Alejo-Castex/Terreno-Alejo-Castex-1.webp"
+      ]
+    },
+    {
+      "id": "prop-33",
+      "activa": true,
+      "orden": 33,
+      "operacion": "EN VENTA",
+      "titulo": "Terreno Camilo Torres Y M. Rico",
+      "ubicacion": "Camilo Torres y Manuel Rico, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Excelente entorno"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Camilo torres manuel rico marca de agua/wm_WhatsApp Image 2026-10-16 at 16.26.56 (1).jpeg",
+        "assets/venta/terrenos/Camilo torres manuel rico marca de agua/wm_WhatsApp Image 2026-10-16 at 16.26.54 (1).jpeg",
+        "assets/venta/terrenos/Camilo torres manuel rico marca de agua/wm_WhatsApp Image 2026-10-16 at 16.26.55 (1).jpeg",
+        "assets/venta/terrenos/Camilo torres manuel rico marca de agua/wm_WhatsApp Image 2026-10-16 at 16.26.53 (1).jpeg",
+        "assets/venta/terrenos/Camilo torres manuel rico marca de agua/wm_WhatsApp Image 2026-10-16 at 16.26.53 (2).jpeg"
+      ]
+    },
+    {
+      "id": "prop-34",
+      "activa": true,
+      "orden": 34,
+      "operacion": "EN VENTA",
+      "titulo": "Terreno En Venta Cosme",
+      "ubicacion": "Cosme, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Excelente entorno"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Cosme--Terreno-en-venta/Cosme-Terreno_Portada.webp",
+        "assets/venta/terrenos/Cosme--Terreno-en-venta/Cosme-Terreno_2.webp",
+        "assets/venta/terrenos/Cosme--Terreno-en-venta/Cosme-Terreno_4.webp",
+        "assets/venta/terrenos/Cosme--Terreno-en-venta/Cosme-Terreno_5.webp",
+        "assets/venta/terrenos/Cosme--Terreno-en-venta/Cosme-Terreno_7.webp"
+      ]
+    },
+    {
+      "id": "prop-35",
+      "activa": true,
+      "orden": 35,
+      "operacion": "EN VENTA",
+      "titulo": "Terreno Juan Casacuberta",
+      "ubicacion": "Juan Casacuberta, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Excelente entorno"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Terreno_Venta_JuanCasacuberta_20DeJunio_LaMatanza/PORTADA-1.webp",
+        "assets/venta/terrenos/Terreno_Venta_JuanCasacuberta_20DeJunio_LaMatanza/foto-2.webp"
+      ]
+    },
+    {
+      "id": "prop-36",
+      "activa": true,
+      "orden": 36,
+      "operacion": "EN VENTA",
+      "titulo": "Terreno M. A. Castro Y P. De Los Libres",
+      "ubicacion": "M. A. Castro y Paso de los Libres, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Excelente entorno"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Manuel-Antonio-Castro-Paso-de-Los-Libres/Terreno-Manual-Antonio-Castro-y-1200-PasodeLoslibres--PORTADA--.webp",
+        "assets/venta/terrenos/Manuel-Antonio-Castro-Paso-de-Los-Libres/Terreno-Manual-Antonio-Castro-y-1200-PasodeLoslibres--1--.webp",
+        "assets/venta/terrenos/Manuel-Antonio-Castro-Paso-de-Los-Libres/Terreno-Manual-Antonio-Castro-y-1200-PasodeLoslibres--2--.webp"
+      ]
+    },
+    {
+      "id": "prop-37",
+      "activa": true,
+      "orden": 37,
+      "operacion": "EN VENTA",
+      "titulo": "Terreno Pablo Ceretti",
+      "ubicacion": "Pablo Ceretti, 20 de Junio",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Excelente entorno"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Terreno_Venta_PabloCeretti_20DeJunio_LaMatanza/foto-2.webp",
+        "assets/venta/terrenos/Terreno_Venta_PabloCeretti_20DeJunio_LaMatanza/foto-3.webp",
+        "assets/venta/terrenos/Terreno_Venta_PabloCeretti_20DeJunio_LaMatanza/foto-4.webp",
+        "assets/venta/terrenos/Terreno_Venta_PabloCeretti_20DeJunio_LaMatanza/Ajustes de nitidez y temperatura.webp"
+      ]
+    },
+    {
+      "id": "prop-38",
+      "activa": true,
+      "orden": 38,
+      "operacion": "EN VENTA",
+      "titulo": "Terreno Río De Janeiro",
+      "ubicacion": "Río de Janeiro, Pontevedra",
+      "precio": "Consultar",
+      "superficie": "Lote Amplio",
+      "ambientes": "--",
+      "dormitorios": "--",
+      "caracteristicas": [
+        "Excelente entorno"
+      ],
+      "imagenes": [
+        "assets/venta/terrenos/Rio de janeiro terreno/wm_Portadariodejaneiroterreno.jpeg",
+        "assets/venta/terrenos/Rio de janeiro terreno/wm_1terreno.jpeg",
+        "assets/venta/terrenos/Rio de janeiro terreno/wm_2riodejaneiroterreno.jpeg"
+      ]
+    }
+  ]
+}
