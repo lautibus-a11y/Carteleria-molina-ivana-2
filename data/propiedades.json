@@ -6,8 +6,138 @@
   },
   "propiedades": [
     {
-      "id": "prop-1",
+      "id": "presentacion-1",
       "activa": true,
+      "orden": 1,
+      "operacion": "EN VENTA",
+      "titulo": "Casa en Venta en 20 de Junio",
+      "ubicacion": "Aguapey, 20 de Junio",
+      "precio": "USD 135.000",
+      "superficie": "114 m² cub. · 1.316 m² terr.",
+      "ambientes": "Ambiente integrado",
+      "dormitorios": "1 Dorm. en suite",
+      "caracteristicas": [
+        "Apto Crédito · Ladrillo Visto"
+      ],
+      "imagenes": [
+        "assets/propiedades_de_presentacion/AGUAPEY_--_VENTA/limpia_01_1.jpg",
+        "assets/propiedades_de_presentacion/AGUAPEY_--_VENTA/limpia_02_2.jpg",
+        "assets/propiedades_de_presentacion/AGUAPEY_--_VENTA/limpia_03_3.jpg",
+        "assets/propiedades_de_presentacion/AGUAPEY_--_VENTA/limpia_04_4.jpg",
+        "assets/propiedades_de_presentacion/AGUAPEY_--_VENTA/limpia_05_5.jpg",
+        "assets/propiedades_de_presentacion/AGUAPEY_--_VENTA/limpia_06_6.jpg",
+        "assets/propiedades_de_presentacion/AGUAPEY_--_VENTA/limpia_07_7.jpg"
+      ]
+    },
+    {
+      "id": "presentacion-2",
+      "activa": true,
+      "orden": 2,
+      "operacion": "EN VENTA",
+      "titulo": "Lote en Venta – 1.100 m²",
+      "ubicacion": "Camilo Torres y Manuel Rico, 20 de Junio",
+      "precio": "USD 63.000",
+      "superficie": "1.100 m² aprox.",
+      "ambientes": "Terreno residencial",
+      "dormitorios": "",
+      "caracteristicas": [
+        "Espacio verde"
+      ],
+      "imagenes": [
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_01_WhatsApp_Image_2026-10-16_at_16_26_52.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_02_WhatsApp_Image_2026-10-16_at_16_26_53__1_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_03_WhatsApp_Image_2026-10-16_at_16_26_53__2_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_04_WhatsApp_Image_2026-10-16_at_16_26_53__3_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_05_WhatsApp_Image_2026-10-16_at_16_26_53.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_06_WhatsApp_Image_2026-10-16_at_16_26_54__1_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_07_WhatsApp_Image_2026-10-16_at_16_26_54__2_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_08_WhatsApp_Image_2026-10-16_at_16_26_54__3_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_09_WhatsApp_Image_2026-10-16_at_16_26_54.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_10_WhatsApp_Image_2026-10-16_at_16_26_55__1_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_11_WhatsApp_Image_2026-10-16_at_16_26_55__2_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_12_WhatsApp_Image_2026-10-16_at_16_26_55__3_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_13_WhatsApp_Image_2026-10-16_at_16_26_55.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_14_WhatsApp_Image_2026-10-16_at_16_26_56__1_.jpg",
+        "assets/propiedades_de_presentacion/Camilo_torres_--_y_manuel_rico/limpia_15_WhatsApp_Image_2026-10-16_at_16_26_56.jpg"
+      ]
+    },
+    {
+      "id": "presentacion-3",
+      "activa": true,
+      "orden": 3,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Diseño Moderno",
+      "ubicacion": "Carlos Cassaffousth 541, 20 de Junio",
+      "precio": "USD 250.000",
+      "superficie": "285 m² cub. · 1.500 m² terr.",
+      "ambientes": "Living y quincho integrado",
+      "dormitorios": "2 Dorm. (1 en suite)",
+      "caracteristicas": [
+        "Pileta con Hidromasaje"
+      ],
+      "imagenes": [
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_01_Cassafouth_541_Pileta_1.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_02_Cassafouth_541_Pileta_2.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_03_Cassafouth_541_pileta_3.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_04_Cassafouth_541_quiatrperson.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_05_Cassafouth_541_Quitar_Auto_1.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_06_Cassafouth_541_Quitarpersonacomedor.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_07_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_16_PM__1_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_08_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_16_PM__3_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_09_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_18_PM__2_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_10_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_18_PM__4_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_11_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_19_PM__1_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_12_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_19_PM__2_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_13_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_19_PM__3_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_14_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_19_PM.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_15_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_20_PM__2_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_16_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_20_PM__3_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_17_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_20_PM.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_18_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_21_PM__1_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_19_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_21_PM__2_.jpg",
+        "assets/propiedades_de_presentacion/Cassafouth_--_541/limpia_20_Cassafouth_541_WhatsApp_Image_2026-10-05_at_5_34_21_PM__3_.jpg"
+      ]
+    },
+    {
+      "id": "presentacion-4",
+      "activa": true,
+      "orden": 4,
+      "operacion": "EN VENTA",
+      "titulo": "Casa Quinta Cosquín 1120",
+      "ubicacion": "Cosquín 1120, 20 de Junio",
+      "precio": "USD 250.000",
+      "superficie": "1.347 m² terreno",
+      "ambientes": "Living-comedor amplio",
+      "dormitorios": "3 Dorm. (1 en suite)",
+      "caracteristicas": [
+        "Pileta con Solárium"
+      ],
+      "imagenes": [
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_01_1.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_02_2.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_03_3.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_04_4.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_05_5.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_06_6.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_07_7.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_08_8.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_09_9.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_10_10.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_11_11.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_12_12.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_13_13.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_14_14.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_15_15.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_16_16.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_17_17.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_18_18.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_19_19.jpg",
+        "assets/propiedades_de_presentacion/Cosquin_--_1120/limpia_20_20.jpg"
+      ]
+    },
+    {
+      "id": "prop-1",
+      "activa": false,
       "orden": 1,
       "operacion": "EN ALQUILER",
       "titulo": "Cabaña Con Gran Parque Y Pileta",
@@ -29,7 +159,7 @@
     },
     {
       "id": "prop-2",
-      "activa": true,
+      "activa": false,
       "orden": 2,
       "operacion": "EN ALQUILER",
       "titulo": "Casa Quinta Ejército De Los Andes",
@@ -51,7 +181,7 @@
     },
     {
       "id": "prop-3",
-      "activa": true,
+      "activa": false,
       "orden": 3,
       "operacion": "EN ALQUILER",
       "titulo": "Departamento 2 Ambientes",
@@ -73,7 +203,7 @@
     },
     {
       "id": "prop-4",
-      "activa": true,
+      "activa": false,
       "orden": 4,
       "operacion": "EN ALQUILER",
       "titulo": "Departamento De Categoría Canning",
@@ -95,7 +225,7 @@
     },
     {
       "id": "prop-5",
-      "activa": true,
+      "activa": false,
       "orden": 5,
       "operacion": "EN ALQUILER",
       "titulo": "Galpón Y Predio Comercial",
@@ -117,7 +247,7 @@
     },
     {
       "id": "prop-6",
-      "activa": true,
+      "activa": false,
       "orden": 6,
       "operacion": "EN VENTA",
       "titulo": "Casa En Carlos Tejedor",
@@ -139,7 +269,7 @@
     },
     {
       "id": "prop-7",
-      "activa": true,
+      "activa": false,
       "orden": 7,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta California 5900",
@@ -161,7 +291,7 @@
     },
     {
       "id": "prop-8",
-      "activa": true,
+      "activa": false,
       "orden": 8,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Castex Y Del Carril",
@@ -183,7 +313,7 @@
     },
     {
       "id": "prop-9",
-      "activa": true,
+      "activa": false,
       "orden": 9,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Castro Al 600",
@@ -205,7 +335,7 @@
     },
     {
       "id": "prop-10",
-      "activa": true,
+      "activa": false,
       "orden": 10,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Ceretti 1300",
@@ -227,7 +357,7 @@
     },
     {
       "id": "prop-11",
-      "activa": true,
+      "activa": false,
       "orden": 11,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Con Pileta Y Quincho",
@@ -249,7 +379,7 @@
     },
     {
       "id": "prop-12",
-      "activa": true,
+      "activa": false,
       "orden": 12,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Con Piscina",
@@ -271,7 +401,7 @@
     },
     {
       "id": "prop-13",
-      "activa": true,
+      "activa": false,
       "orden": 13,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Cosme",
@@ -293,7 +423,7 @@
     },
     {
       "id": "prop-14",
-      "activa": true,
+      "activa": false,
       "orden": 14,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Cosquín 1120",
@@ -315,7 +445,7 @@
     },
     {
       "id": "prop-15",
-      "activa": true,
+      "activa": false,
       "orden": 15,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Cosquín 1400",
@@ -337,7 +467,7 @@
     },
     {
       "id": "prop-16",
-      "activa": true,
+      "activa": false,
       "orden": 16,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Gibraltar I",
@@ -359,7 +489,7 @@
     },
     {
       "id": "prop-17",
-      "activa": true,
+      "activa": false,
       "orden": 17,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Gibraltar Ii",
@@ -381,7 +511,7 @@
     },
     {
       "id": "prop-18",
-      "activa": true,
+      "activa": false,
       "orden": 18,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Girardot 1345",
@@ -403,7 +533,7 @@
     },
     {
       "id": "prop-19",
-      "activa": true,
+      "activa": false,
       "orden": 19,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Juan Pío Gana 4400",
@@ -425,7 +555,7 @@
     },
     {
       "id": "prop-20",
-      "activa": true,
+      "activa": false,
       "orden": 20,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Leopardi 5800",
@@ -447,7 +577,7 @@
     },
     {
       "id": "prop-21",
-      "activa": true,
+      "activa": false,
       "orden": 21,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Manuel Castro 775",
@@ -469,7 +599,7 @@
     },
     {
       "id": "prop-22",
-      "activa": true,
+      "activa": false,
       "orden": 22,
       "operacion": "EN VENTA",
       "titulo": "Casa Quinta Urien",
@@ -491,7 +621,7 @@
     },
     {
       "id": "prop-23",
-      "activa": true,
+      "activa": false,
       "orden": 23,
       "operacion": "EN VENTA",
       "titulo": "Complejo Río De Janeiro",
@@ -513,7 +643,7 @@
     },
     {
       "id": "prop-24",
-      "activa": true,
+      "activa": false,
       "orden": 24,
       "operacion": "EN VENTA",
       "titulo": "Depto. Independiente La Rosalía",
@@ -535,7 +665,7 @@
     },
     {
       "id": "prop-25",
-      "activa": true,
+      "activa": false,
       "orden": 25,
       "operacion": "EN VENTA",
       "titulo": "Propiedad De 6 Ambientes",
@@ -557,7 +687,7 @@
     },
     {
       "id": "prop-26",
-      "activa": true,
+      "activa": false,
       "orden": 26,
       "operacion": "EN VENTA",
       "titulo": "Quinta El Maestro",
@@ -579,7 +709,7 @@
     },
     {
       "id": "prop-27",
-      "activa": true,
+      "activa": false,
       "orden": 27,
       "operacion": "EN VENTA",
       "titulo": "Residencia Carlos Cassafousth 541",
@@ -601,7 +731,7 @@
     },
     {
       "id": "prop-28",
-      "activa": true,
+      "activa": false,
       "orden": 28,
       "operacion": "EN VENTA",
       "titulo": "Residencia En Venta Aguapey",
@@ -623,7 +753,7 @@
     },
     {
       "id": "prop-29",
-      "activa": true,
+      "activa": false,
       "orden": 29,
       "operacion": "EN VENTA",
       "titulo": "Residencia La Rosalía",
@@ -645,7 +775,7 @@
     },
     {
       "id": "prop-30",
-      "activa": true,
+      "activa": false,
       "orden": 30,
       "operacion": "EN VENTA",
       "titulo": "Departamento Av. Rivadavia 14600",
@@ -667,7 +797,7 @@
     },
     {
       "id": "prop-31",
-      "activa": true,
+      "activa": false,
       "orden": 31,
       "operacion": "EN VENTA",
       "titulo": "Lote De Terreno Cassafousth",
@@ -689,7 +819,7 @@
     },
     {
       "id": "prop-32",
-      "activa": true,
+      "activa": false,
       "orden": 32,
       "operacion": "EN VENTA",
       "titulo": "Terreno Alejo Castex",
@@ -708,7 +838,7 @@
     },
     {
       "id": "prop-33",
-      "activa": true,
+      "activa": false,
       "orden": 33,
       "operacion": "EN VENTA",
       "titulo": "Terreno Camilo Torres Y M. Rico",
@@ -730,7 +860,7 @@
     },
     {
       "id": "prop-34",
-      "activa": true,
+      "activa": false,
       "orden": 34,
       "operacion": "EN VENTA",
       "titulo": "Terreno En Venta Cosme",
@@ -752,7 +882,7 @@
     },
     {
       "id": "prop-35",
-      "activa": true,
+      "activa": false,
       "orden": 35,
       "operacion": "EN VENTA",
       "titulo": "Terreno Juan Casacuberta",
@@ -771,7 +901,7 @@
     },
     {
       "id": "prop-36",
-      "activa": true,
+      "activa": false,
       "orden": 36,
       "operacion": "EN VENTA",
       "titulo": "Terreno M. A. Castro Y P. De Los Libres",
@@ -791,7 +921,7 @@
     },
     {
       "id": "prop-37",
-      "activa": true,
+      "activa": false,
       "orden": 37,
       "operacion": "EN VENTA",
       "titulo": "Terreno Pablo Ceretti",
@@ -812,7 +942,7 @@
     },
     {
       "id": "prop-38",
-      "activa": true,
+      "activa": false,
       "orden": 38,
       "operacion": "EN VENTA",
       "titulo": "Terreno Río De Janeiro",

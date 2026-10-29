@@ -87,10 +87,12 @@
             }
         ];
 
-        // Cargar propiedades reales desde propiedades.js o fallback
-        const propList = (typeof properties !== 'undefined' && Array.isArray(properties) && properties.length > 0)
+        // Cargar propiedades reales desde propiedades.js o fallback, filtrando solo las activas
+        const rawList = (typeof properties !== 'undefined' && Array.isArray(properties) && properties.length > 0)
             ? properties
             : defaultProperties;
+
+        const propList = rawList.filter(p => p.activa === true);
 
         // Configuración de tiempos
         const TIME_PER_SLIDE = 7000; // 7 segundos por foto
